@@ -1,0 +1,16 @@
+cycler==0.10.0
+Django==2.0.3
+int-date==0.1.8
+Jinja2==2.10
+kiwisolver==1.0.1
+MarkupSafe==1.0
+matplotlib==2.2.2
+mpld3==0.3
+numpy==1.14.2
+pandas==0.22.0
+pika==0.11.2
+pyparsing==2.2.0
+python-dateutil==2.7.2
+pytz==2018.3
+six==1.11.0
+stockstats==0.2.0
